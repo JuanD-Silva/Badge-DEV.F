@@ -1,0 +1,15 @@
+.BadgeNew__hero {
+  width: 100%;
+  padding: 2rem 0;
+  background: #a485f8;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom: 1rem;
+  color: #ffffff;
+}
+
+#header {
+  height: 250px;
+  /* display: block;
+  margin: auto; */
+}
