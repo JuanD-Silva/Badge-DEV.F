@@ -1,0 +1,37 @@
+.BadgeDetails__hero {
+  width: 100%;
+  padding: 2rem 0;
+  background: #a485f8;
+  background-repeat: repeat;
+  margin-bottom: 1rem;
+  color: #ffffff;
+  margin-bottom: 50px;
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.Master {
+  height: 20vh;
+  display: block;
+}
+
+.BadgeDetails__hero-attendant-name {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.BadgeDetails__buttons {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 1rem;
+}
+
+@media (max-width: 990px) {
+  .Master {
+    height: 15vh;
+  }
+} ;
