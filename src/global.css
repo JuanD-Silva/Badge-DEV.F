@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 @import url("https://fonts.googleapis.com/css?family=Lato:300,400,700");
 @import url("https://fonts.googleapis.com/css?family=Anton");
+=======
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,700');
+@import url('https://fonts.googleapis.com/css?family=Anton');
+
+>>>>>>> 7ad536f94341d1cd0e2f9b470b3dee61de11345e
 
 * {
   -webkit-font-smoothing: antialiased;
@@ -7,12 +13,21 @@
 }
 
 body {
+<<<<<<< HEAD
   font-family: "Lato", "Helvetica Neue", sans-serif;
   background-color: #e8e8f3;
 }
 
 h1 {
   font-family: "Anton", sans-serif;
+=======
+  font-family: 'Lato', 'Helvetica Neue', sans-serif;
+  background-color: #F4F4F7;
+}
+
+h1 {
+  font-family: 'Anton', sans-serif;
+>>>>>>> 7ad536f94341d1cd0e2f9b470b3dee61de11345e
 }
 
 a.link-unstyled {
@@ -30,20 +45,35 @@ a.link-unstyled:hover {
 
 .btn.btn-primary {
   color: #fff;
+<<<<<<< HEAD
   background-color: #7dcd40;
   border-color: #7dcd40;
+=======
+  background-color: #7DCD40;
+  border-color: #7DCD40;
+>>>>>>> 7ad536f94341d1cd0e2f9b470b3dee61de11345e
 }
 
 .btn.btn-primary:not(:disabled):not(.disabled):hover {
   color: #fff;
+<<<<<<< HEAD
   background-color: #7dcd40;
   border-color: #7dcd40;
+=======
+  background-color: #7DCD40;
+  border-color: #7DCD40;
+>>>>>>> 7ad536f94341d1cd0e2f9b470b3dee61de11345e
 }
 
 .btn.btn-primary:not(:disabled):not(.disabled):active {
   color: #fff;
+<<<<<<< HEAD
   background-color: #7dcd40;
   border-color: #7dcd40;
+=======
+  background-color: #7DCD40;
+  border-color: #7DCD40;
+>>>>>>> 7ad536f94341d1cd0e2f9b470b3dee61de11345e
 }
 
 .btn.btn-primary:not(:disabled):not(.disabled):focus {
@@ -52,22 +82,41 @@ a.link-unstyled:hover {
 
 .btn.btn-danger {
   color: #fff;
+<<<<<<< HEAD
   background-color: #cd4040;
   border-color: #cd4040;
+=======
+  background-color: #CD4040;
+  border-color: #CD4040;
+>>>>>>> 7ad536f94341d1cd0e2f9b470b3dee61de11345e
 }
 
 .btn.btn-danger:not(:disabled):not(.disabled):hover {
   color: #fff;
+<<<<<<< HEAD
   background-color: #cd4040;
   border-color: #cd4040;
+=======
+  background-color: #CD4040;
+  border-color: #CD4040;
+>>>>>>> 7ad536f94341d1cd0e2f9b470b3dee61de11345e
 }
 
 .btn.btn-danger:not(:disabled):not(.disabled):active {
   color: #fff;
+<<<<<<< HEAD
   background-color: #cd4040;
   border-color: #cd4040;
+=======
+  background-color: #CD4040;
+  border-color: #CD4040;
+>>>>>>> 7ad536f94341d1cd0e2f9b470b3dee61de11345e
 }
 
 .btn.btn-danger:not(:disabled):not(.disabled):focus {
   box-shadow: 0 0 0 0.2rem rgba(255, 64, 64, 0.5);
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 7ad536f94341d1cd0e2f9b470b3dee61de11345e

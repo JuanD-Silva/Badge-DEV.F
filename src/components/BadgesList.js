@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React from "react";
 import "./styles/BadgesList.css";
 import tw_logo from "../images/twiter-logo.png";
@@ -22,12 +23,36 @@ class BadgeListItem extends React.Component {
           <br />
           <img src={tw_logo} className="tw-logo" alt="tw-logo" />
           <span className="twitter__blue-font">{this.props.badge.twitter}</span>
+=======
+import React from 'react';
+
+import './styles/BadgesList.css';
+
+class BadgesListItem extends React.Component {
+  render() {
+    return (
+      <div className="BadgesListItem">
+        <img
+          className="BadgesListItem__avatar"
+          src={this.props.badge.avatarUrl}
+          alt={`${this.props.badge.firstName} ${this.props.badge.lastName}`}
+        />
+
+        <div>
+          <strong>
+            {this.props.badge.firstName} {this.props.badge.lastName}
+          </strong>
+          <br />@{this.props.badge.twitter}
+          <br />
+          {this.props.badge.jobTitle}
+>>>>>>> 7ad536f94341d1cd0e2f9b470b3dee61de11345e
         </div>
       </div>
     );
   }
 }
 
+<<<<<<< HEAD
 function useSearchBadges(badges) {
   const [query, setQuery] = React.useState("");
   const [filteredBadges, setFilteredBadges] = React.useState(badges);
@@ -100,6 +125,24 @@ function BadgesList(props) {
       </ul>
     </div>
   );
+=======
+class BadgesList extends React.Component {
+  render() {
+    return (
+      <div className="BadgesList">
+        <ul className="list-unstyled">
+          {this.props.badges.map(badge => {
+            return (
+              <li key={badge.id}>
+                <BadgesListItem badge={badge} />
+              </li>
+            );
+          })}
+        </ul>
+      </div>
+    );
+  }
+>>>>>>> 7ad536f94341d1cd0e2f9b470b3dee61de11345e
 }
 
 export default BadgesList;
