@@ -1,38 +1,22 @@
 .Navbar {
-  width: 100%;
-  padding: 0.5rem 0;
-<<<<<<< HEAD
-  background-color: #161127;
-=======
-  background-color: #1C3643;
->>>>>>> 7ad536f94341d1cd0e2f9b470b3dee61de11345e
+	width: 100%;
+	padding: 0.5rem 0;
+	background-color: #161127;
 }
 
 .Navbar__brand {
-  color: #ffffff;
-<<<<<<< HEAD
-  text-decoration: none;
-=======
-
->>>>>>> 7ad536f94341d1cd0e2f9b470b3dee61de11345e
-  display: flex;
-  align-items: center;
+	color: #ffffff;
+	text-decoration: none;
+	display: flex;
+	align-items: flex-start;
 }
 
 .Navbar__brand:hover {
-  color: #ffffff;
-<<<<<<< HEAD
+	color: #ffffff;
 }
 
 .Navbar__brand-logo {
-  margin-right: 0.9rem;
-  height: 30px;
+	height: 30px;
+	width: 200px;
+	margin: 0;
 }
-=======
-  text-decoration: none;
-}
-
-.Navbar__brand-logo {
-  margin-right: 0.5rem;
-}
->>>>>>> 7ad536f94341d1cd0e2f9b470b3dee61de11345e

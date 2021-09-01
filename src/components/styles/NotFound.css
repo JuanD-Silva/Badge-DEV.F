@@ -1,6 +1,6 @@
-.imagen-404 {
-  width: 45%;
-  height: 45%;
-  display: block;
-  margin: auto;
+img {
+	width: 45%;
+	height: 45%;
+	display: block;
+	margin: auto;
 }

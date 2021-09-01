@@ -1,44 +1,36 @@
-<<<<<<< HEAD
 body {
-  background-color: #f1f7fc;
+	background-color: #f1f7fc;
 }
 
 .BadgesList ul > li {
-=======
-.BadgesList ul>li {
->>>>>>> 7ad536f94341d1cd0e2f9b470b3dee61de11345e
-  margin-bottom: 1rem;
+	margin-bottom: 1rem;
 }
 
 .BadgesListItem {
-<<<<<<< HEAD
-  background: #ffffff;
-=======
-  background: #FFFFFF;
->>>>>>> 7ad536f94341d1cd0e2f9b470b3dee61de11345e
-  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.23);
-  border-radius: 5px;
-  display: flex;
-  padding: 1rem;
+	background: #ffffff;
+	box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.23);
+	border-radius: 5px;
+	display: flex;
+	padding: 1rem;
 }
 
 .BadgesListItem__avatar {
-  border-radius: 50%;
-  background: #a3a3a3;
-  margin-right: 0.5rem;
-  width: 80px;
-  height: 80px;
-<<<<<<< HEAD
+	border-radius: 50%;
+	background: #a3a3a3;
+	margin-right: 0.5rem;
+	width: 80px;
+	height: 80px;
+	margin: 10px;
+	margin-right: 50px;
 }
 
 .twitter__blue-font {
-  color: #38a1f3;
+	color: #38a1f3;
 }
 
 .tw-logo {
-  width: 25px;
-  height: 25px;
+	/* margin-top: 20px; */
+	float: left;
+	width: 25px;
+	height: 25px;
 }
-=======
-}
->>>>>>> 7ad536f94341d1cd0e2f9b470b3dee61de11345e
