@@ -15,7 +15,7 @@ class Navbar extends React.Component {
 							alt="logo"
 						></img>
 						<span className="fw-light">Dev.f</span>
-						<span className="fw-bold">Conf</span>
+						<span className="fw-bold">Gen-7</span>
 					</Link>
 				</div>
 			</div>
