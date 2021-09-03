@@ -37,15 +37,6 @@
       "avatarUrl": "https://www.gravatar.com/avatar/c78ed3b6e05aa42603702c2fb08950e1?d=identicon"
     },
     {
-      "id": "be1f4d67-9c83-4e01-8991-514e3af047b3",
-      "firstName": "Makenzie",
-      "lastName": "Effertz",
-      "email": "Charles.Parker56@yahoo.com",
-      "jobTitle": "Global Quality Orchestrator",
-      "twitter": "MakenzieEffertz56304",
-      "avatarUrl": "https://www.gravatar.com/avatar/ea9dcdb8b7f12c063f3bf4837f495063?d=identicon"
-    },
-    {
       "id": "d197cc17-70bd-4052-a8ff-14697cce07a2",
       "firstName": "Alda",
       "lastName": "Mayert",
@@ -225,12 +216,20 @@
       "id": "NFXolrs"
     },
     {
-      "firstName": "Juan ",
+      "firstName": "J",
       "lastName": "Silva",
       "email": "silvajuandavid.08@hotmail.com",
       "jobTitle": "Software Developer",
       "twitter": "Juan_ds",
       "id": "FOSQoIQ"
+    },
+    {
+      "firstName": "Juan",
+      "lastName": "Silva",
+      "email": "silvajuandavid.08@hotmail.com",
+      "jobTitle": "",
+      "twitter": "",
+      "id": "a6YDH6q"
     }
   ]
 }
