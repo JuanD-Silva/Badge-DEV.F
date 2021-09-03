@@ -1,4 +1,4 @@
-const BASE_URL = "https://distracted-lovelace-471e26.netlify.app";
+const BASE_URL = "https://distracted-lovelace-471e26.netlify.app:3001";
 
 const delay = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 const randomNumber = (min = 0, max = 1) =>
