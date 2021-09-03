@@ -11,7 +11,6 @@ export default class Home extends Component {
 				<div className="container">
 					<div className="row">
 						<div className="Home__col col-12 col-md-4">
-							{/* <img src={logo} alt="logo" className="img-fluid mb-2" /> */}
 							<h1>Master´s Managment System</h1>
 							<Link className="btn btn-primary" to="/badges">
 								Start

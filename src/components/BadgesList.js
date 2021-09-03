@@ -14,7 +14,7 @@ class BadgeListItem extends React.Component {
 				/>
 				<div>
 					<strong>
-						{this.props.badge.firstName}
+						{this.props.badge.firstName} &nbsp;
 						{this.props.badge.lastName}
 					</strong>
 					<br />
